@@ -18,7 +18,8 @@ breaks the data down so you can see which moths are popular and which are not.
 ### Analysis of Outcomes Based on Goals
 This data shows the percentage of successful,failed, and canceled play kickstarters
 based on the amount they were trying to raise. 
-\kickstarter_project\resources\Outcomes_vs_Goals.png"
+
+!https://github.com/william11329/kickstarter-analysis/blob/main/kickstarter_project/resources/Outcomes_vs_Goals.png
 
 ### Challenges and Difficulties Encountered
 One of the few difficulties with this analysis was properly explaining skewed data.
