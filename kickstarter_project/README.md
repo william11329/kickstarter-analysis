@@ -13,7 +13,7 @@ This analysis displays the kickstarter data proved after it has been filtered to
 show theater related projects. It displays all the projects that were successful, failed
 or canceled for each month of the year over the span from 2009-2017. This pivot table
 breaks the data down so you can see which moths are popular and which are not.
-\kickstarter_project\resources\Theater_Outcomes_vs_Launch.png"
+!https://github.com/william11329/kickstarter-analysis/blob/main/kickstarter_project/resources/Theater_Outcomes_vs_Launch.png
 
 ### Analysis of Outcomes Based on Goals
 This data shows the percentage of successful,failed, and canceled play kickstarters
